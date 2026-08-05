@@ -12,7 +12,7 @@ pub mod components;
 pub mod systems;
 pub mod helpers;
 
-#[macroquad::main("mocosmos")]
+#[macroquad::main("mogalaxy")]
 async fn main() -> Result<(), macroquad::Error> {
     let mut app = App::new();
 
